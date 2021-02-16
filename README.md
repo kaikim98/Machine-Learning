@@ -11,3 +11,5 @@ Donghyun Kim's machine learning diary
 보온대
 
 대학원
+
+김동현
