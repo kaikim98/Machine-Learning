@@ -9,3 +9,5 @@ Donghyun Kim's machine learning diary
 끝말잇기
 
 보온대
+
+대학원
